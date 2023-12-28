@@ -1,4 +1,3 @@
-**Introduction:**
 The "Three Laws of Cybernetics" have been formulated to guide responsible development and prioritize user safety.
 
 ### I. Conditions for Physical Interaction:
